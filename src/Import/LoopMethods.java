@@ -41,6 +41,15 @@ public class LoopMethods {
 		
 		//////////////////////////
 		
+		//do 
+		int i=11;
+		while(i>5) {
+			System.out.println(i);
+			i--;
+			
+		}
+		
+		//do/whileLoop
 		
 	}
 
