@@ -22,7 +22,6 @@ public class ChildInterface implements fullyAbsraction {
 	public static void main(String[] args) {
 		 ChildInterface ci=new ChildInterface();
 		 ci.ram();
-		 ci.ram();
 		 ci.processor();
 		 ci.rate();
 		 

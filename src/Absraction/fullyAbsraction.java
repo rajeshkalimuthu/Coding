@@ -5,10 +5,11 @@ package Absraction;
 // It using implements keywords
 
 public interface fullyAbsraction {
-	public static void phone() {
-		System.out.println("Redme");
-	}
+	
    void rate();
    void ram();
    void processor();
+   
+   
+
 }
